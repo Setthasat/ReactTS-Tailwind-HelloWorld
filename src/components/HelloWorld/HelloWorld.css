@@ -2,6 +2,5 @@
 
 p {
     font-family: 'Noto Sans Thai', sans-serif;
-    font-weight: bold;
-    font-size: 300%;
+    text-shadow: 8px 8px rgb(35, 34, 34);
 }

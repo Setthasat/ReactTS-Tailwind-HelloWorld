@@ -1,8 +1,8 @@
 import { Routes, Route } from "react-router-dom";
 import Welcome from "./page/Welcome";
-import HelloWorld from "./components/HelloWorld/HelloWorld";
+import HelloWorld from "./page/Helloworld";
 
-function App() {
+const App : React.FC = () => {
 
   return (
     <div>

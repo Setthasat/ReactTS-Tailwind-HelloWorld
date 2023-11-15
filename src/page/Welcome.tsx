@@ -1,5 +1,5 @@
 
-function welcome() {
+const welcome : React.FC = () => {
   return (
     <div className="">welcome</div>
   )
